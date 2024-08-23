@@ -1,0 +1,1 @@
+The Movie Recommender System is a Python-based web application built using PyCharm and Streamlit, which provides personalized movie recommendations to users based on their preferences. This project leverages a movie dataset sourced from Kaggle and utilizes various data processing and machine learning techniques to deliver movie recommendations.
